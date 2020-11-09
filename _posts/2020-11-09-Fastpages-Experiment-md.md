@@ -188,7 +188,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](../images/output_19_0.png)
 
 
 ### with Seaborn
@@ -213,5 +213,5 @@ sns.
 
 
 
-![png](output_21_2.png)
+![png](../images/output_21_2.png)
 
